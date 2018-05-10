@@ -35,7 +35,7 @@ $(document).ready(function() {
     $("#visitor-url").blur(function() {
         this.placeholder = "";
     });
-    
+
     // Auto delete input content & placeholder
     $(".search-input").blur(function() {
         this.value = "";
@@ -60,6 +60,7 @@ $(document).ready(function() {
         });
         return false;
     });
+
 
     // Smooth scroll of TOC
     $(".post-toc a").click(function() {

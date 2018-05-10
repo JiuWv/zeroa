@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeroa-做简单的事</title>
+  
+  <subtitle>平平常常一个人</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.zeroa.club/"/>
+  <updated>2018-05-09T13:48:09.598Z</updated>
+  <id>http://blog.zeroa.club/</id>
+  
+  <author>
+    <name>Zeroa</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>找资源终极指南｜海量资源链接分享</title>
+    <link href="http://blog.zeroa.club/2018/05/09/201805091658/"/>
+    <id>http://blog.zeroa.club/2018/05/09/201805091658/</id>
+    <published>2018-05-09T08:58:29.000Z</published>
+    <updated>2018-05-09T13:48:09.598Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="影视分享" scheme="http://blog.zeroa.club/categories/%E5%BD%B1%E8%A7%86%E5%88%86%E4%BA%AB/"/>
+    
+    
+      <category term="电影 电视剧" scheme="http://blog.zeroa.club/tags/%E7%94%B5%E5%BD%B1-%E7%94%B5%E8%A7%86%E5%89%A7/"/>
+    
+  </entry>
+  
+</feed>

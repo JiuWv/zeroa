@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.zeroa.club/"/>
-  <updated>2018-05-09T13:48:09.598Z</updated>
+  <updated>2018-05-11T13:34:43.892Z</updated>
   <id>http://blog.zeroa.club/</id>
   
   <author>
@@ -17,11 +17,43 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>用Dual Boot Patcher为安卓手机安装多个系统（不唯一）</title>
+    <link href="http://blog.zeroa.club/2018/05/11/post05111952/"/>
+    <id>http://blog.zeroa.club/2018/05/11/post05111952/</id>
+    <published>2018-05-11T11:52:37.939Z</published>
+    <updated>2018-05-11T13:34:43.892Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="安卓搞机" scheme="http://blog.zeroa.club/categories/%E5%AE%89%E5%8D%93%E6%90%9E%E6%9C%BA/"/>
+    
+    
+      <category term="安卓" scheme="http://blog.zeroa.club/tags/%E5%AE%89%E5%8D%93/"/>
+    
+      <category term="多系统" scheme="http://blog.zeroa.club/tags/%E5%A4%9A%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="安装" scheme="http://blog.zeroa.club/tags/%E5%AE%89%E8%A3%85/"/>
+    
+      <category term="Dual Boot Patcher" scheme="http://blog.zeroa.club/tags/Dual-Boot-Patcher/"/>
+    
+  </entry>
+  
+  <entry>
     <title>找资源终极指南｜海量资源链接分享</title>
     <link href="http://blog.zeroa.club/2018/05/09/201805091658/"/>
     <id>http://blog.zeroa.club/2018/05/09/201805091658/</id>
     <published>2018-05-09T08:58:29.000Z</published>
-    <updated>2018-05-09T13:48:09.598Z</updated>
+    <updated>2018-05-11T13:39:54.630Z</updated>
     
     <summary type="html">
     
@@ -38,7 +70,13 @@
       <category term="影视分享" scheme="http://blog.zeroa.club/categories/%E5%BD%B1%E8%A7%86%E5%88%86%E4%BA%AB/"/>
     
     
-      <category term="电影 电视剧" scheme="http://blog.zeroa.club/tags/%E7%94%B5%E5%BD%B1-%E7%94%B5%E8%A7%86%E5%89%A7/"/>
+      <category term="电影" scheme="http://blog.zeroa.club/tags/%E7%94%B5%E5%BD%B1/"/>
+    
+      <category term="电视剧" scheme="http://blog.zeroa.club/tags/%E7%94%B5%E8%A7%86%E5%89%A7/"/>
+    
+      <category term="资源" scheme="http://blog.zeroa.club/tags/%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="指南" scheme="http://blog.zeroa.club/tags/%E6%8C%87%E5%8D%97/"/>
     
   </entry>
   

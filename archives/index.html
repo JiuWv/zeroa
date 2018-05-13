@@ -184,7 +184,7 @@
 
     <style>
       .fade {
-        transition: all 2000ms linear;
+        transition: all 500ms linear;
         -webkit-transform: translate3d(0,0,0);
         -moz-transform: translate3d(0,0,0);
         -ms-transform: translate3d(0,0,0);
@@ -875,20 +875,6 @@ It will not impact the appearance and can give developers a lot of support :)
 
         <!-- Paradox Footer Right Section -->
 
-        <!--
-        I am glad you use this theme, the development is no so easy, I hope you can keep the copyright.
-        It will not impact the appearance and can give developers a lot of support :)
-
-        很高兴您使用该主题，开发不易，希望您可以保留一下版权声明。
-        它不会影响美观并可以给开发者很大的支持。 :)
-        -->
-
-        <div class="mdl-mini-footer--right-section">
-            <div>
-                <div class="footer-develop-div">Powered by <a href="https://hexo.io" target="_blank" class="footer-develop-a">Hexo</a></div>
-                <div class="footer-develop-div">Theme - <a href="https://github.com/viosey/hexo-theme-material" target="_blank" class="footer-develop-a">Material</a></div>
-            </div>
-        </div>
     
 </footer>
 
@@ -912,19 +898,19 @@ It will not impact the appearance and can give developers a lot of support :)
     });
     NProgress.start();
     $('#nprogress .bar').css({
-        'background': '#00FFFF'
+        'background': '#8A2BE2'
     });
     $('#nprogress .peg').css({
-        'box-shadow': '0 0 10px #00FFFF, 0 0 15px #00FFFF'
+        'box-shadow': '0 0 10px #8A2BE2, 0 0 15px #8A2BE2'
     });
     $('#nprogress .spinner-icon').css({
-        'border-top-color': '#00FFFF',
-        'border-left-color': '#00FFFF'
+        'border-top-color': '#8A2BE2',
+        'border-left-color': '#8A2BE2'
     });
     setTimeout(function() {
         NProgress.done();
         $('.fade').removeClass('out');
-    }, 2000);
+    }, 500);
 </script>
 
 

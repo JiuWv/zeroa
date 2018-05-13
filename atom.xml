@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.zeroa.club/"/>
-  <updated>2018-05-11T13:34:43.892Z</updated>
+  <updated>2018-05-13T07:16:08.937Z</updated>
   <id>http://blog.zeroa.club/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>纪念“5.12”​汶川大地震十周年主题曲《在你爱的牵挂里》</title>
+    <link href="http://blog.zeroa.club/2018/05/13/20180512/"/>
+    <id>http://blog.zeroa.club/2018/05/13/20180512/</id>
+    <published>2018-05-13T05:11:52.000Z</published>
+    <updated>2018-05-13T07:16:08.937Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css&quot;&gt;&lt;script
+        
+      
+    
+    </summary>
+    
+      <category term="随心音乐" scheme="http://blog.zeroa.club/categories/%E9%9A%8F%E5%BF%83%E9%9F%B3%E4%B9%90/"/>
+    
+    
+      <category term="汶川" scheme="http://blog.zeroa.club/tags/%E6%B1%B6%E5%B7%9D/"/>
+    
+      <category term="十周年" scheme="http://blog.zeroa.club/tags/%E5%8D%81%E5%91%A8%E5%B9%B4/"/>
+    
+      <category term="张碧晨" scheme="http://blog.zeroa.club/tags/%E5%BC%A0%E7%A2%A7%E6%99%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>用Dual Boot Patcher为安卓手机安装多个系统（不唯一）</title>
@@ -29,7 +59,7 @@
       
         
         
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css&quot;&gt;&lt;script
         
       
     
@@ -61,7 +91,7 @@
       
         
         
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css&quot;&gt;&lt;script
         
       
     

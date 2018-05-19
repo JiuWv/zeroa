@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.zeroa.club/"/>
-  <updated>2018-05-13T07:16:08.937Z</updated>
+  <updated>2018-05-11T13:34:43.892Z</updated>
   <id>http://blog.zeroa.club/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用Dual Boot Patcher为安卓手机安装多个系统（不唯一）</title>
+    <link href="http://blog.zeroa.club/2018/05/19/post05111952/"/>
+    <id>http://blog.zeroa.club/2018/05/19/post05111952/</id>
+    <published>2018-05-19T01:47:20.719Z</published>
+    <updated>2018-05-11T13:34:43.892Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css&quot;&gt;&lt;script
+        
+      
+    
+    </summary>
+    
+      <category term="安卓搞机" scheme="http://blog.zeroa.club/categories/%E5%AE%89%E5%8D%93%E6%90%9E%E6%9C%BA/"/>
+    
+    
+      <category term="安卓" scheme="http://blog.zeroa.club/tags/%E5%AE%89%E5%8D%93/"/>
+    
+      <category term="多系统" scheme="http://blog.zeroa.club/tags/%E5%A4%9A%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="安装" scheme="http://blog.zeroa.club/tags/%E5%AE%89%E8%A3%85/"/>
+    
+      <category term="Dual Boot Patcher" scheme="http://blog.zeroa.club/tags/Dual-Boot-Patcher/"/>
+    
+  </entry>
   
   <entry>
     <title>纪念“5.12”​汶川大地震十周年主题曲《在你爱的牵挂里》</title>
@@ -43,38 +75,6 @@
       <category term="十周年" scheme="http://blog.zeroa.club/tags/%E5%8D%81%E5%91%A8%E5%B9%B4/"/>
     
       <category term="张碧晨" scheme="http://blog.zeroa.club/tags/%E5%BC%A0%E7%A2%A7%E6%99%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>用Dual Boot Patcher为安卓手机安装多个系统（不唯一）</title>
-    <link href="http://blog.zeroa.club/2018/05/11/post05111952/"/>
-    <id>http://blog.zeroa.club/2018/05/11/post05111952/</id>
-    <published>2018-05-11T11:52:37.939Z</published>
-    <updated>2018-05-11T13:34:43.892Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;https://unpkg.com/aplayer@1.10.1/dist/APlayer.min.css&quot;&gt;&lt;script
-        
-      
-    
-    </summary>
-    
-      <category term="安卓搞机" scheme="http://blog.zeroa.club/categories/%E5%AE%89%E5%8D%93%E6%90%9E%E6%9C%BA/"/>
-    
-    
-      <category term="安卓" scheme="http://blog.zeroa.club/tags/%E5%AE%89%E5%8D%93/"/>
-    
-      <category term="多系统" scheme="http://blog.zeroa.club/tags/%E5%A4%9A%E7%B3%BB%E7%BB%9F/"/>
-    
-      <category term="安装" scheme="http://blog.zeroa.club/tags/%E5%AE%89%E8%A3%85/"/>
-    
-      <category term="Dual Boot Patcher" scheme="http://blog.zeroa.club/tags/Dual-Boot-Patcher/"/>
     
   </entry>
   
